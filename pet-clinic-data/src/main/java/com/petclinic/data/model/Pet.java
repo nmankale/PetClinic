@@ -2,7 +2,7 @@ package com.petclinic.data.model;
 
 import java.util.Date;
 
-public class Pet {
+public class Pet extends BaseEntity {
 	
 	private Date birth_date;
 	private Owner owner;
