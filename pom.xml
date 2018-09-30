@@ -59,7 +59,8 @@
 		</plugins>
 	</build>
 	<scm>
-	 <developerConnection>scm:git:nmankale@github.com:nmankale/petclinic.git</developerConnection>
-	 <tag>parent-0.0.1</tag>
+	 
+	 <connection>https://github.com/nmankale/petclinic.git</connection>
+     <url>https://github.com/nmankale/petclinic</url>
   	</scm>
 </project>
