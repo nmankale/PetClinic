@@ -1,0 +1,10 @@
+com/petclinic/data/model/Person.class
+com/petclinic/data/model/Pet.class
+com/petclininc/data/service/VetService.class
+com/petclininc/data/service/CrudService.class
+com/petclininc/data/service/PetService.class
+com/petclininc/data/service/OwnerService.class
+com/petclinic/data/model/PetType.class
+com/petclinic/data/model/Vet.class
+com/petclinic/data/model/BaseEntity.class
+com/petclinic/data/model/Owner.class
