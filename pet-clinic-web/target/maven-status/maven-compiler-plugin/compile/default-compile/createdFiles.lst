@@ -1,2 +1,4 @@
-com/petclinic/controller/IndexController.class
+com/petclinic/web/controller/OwnerController.class
+com/petclinic/web/controller/IndexController.class
+com/petclinic/web/controller/VetController.class
 com/petclinic/web/DemoApplication.class
